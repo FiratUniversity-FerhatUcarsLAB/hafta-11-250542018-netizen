@@ -19,3 +19,6 @@ public class Exercise4_4 {
         // Cevaplarinizi yorum olarak ekleyin.
     }
 }
+/* 1. Kod çalışır, hata vermez; ancak metottan dönen sonuç bir değişkene atanmadığı için o veri havaya uçar (kaybolur).
+   2. Derleme hatası (compile error) alırız; çünkü void metot geriye bir değer döndürmez, "yokluk" ile toplama işlemi yapılamaz
+*/
